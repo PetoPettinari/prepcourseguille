@@ -1,2 +1,1 @@
-# prepcourseguille
-este es un repositorio de guillermo de prueba 
+Este proyecto es una prueba de como clonar del escritorio 
